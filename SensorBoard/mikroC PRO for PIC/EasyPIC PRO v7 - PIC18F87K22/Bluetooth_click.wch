@@ -1,0 +1,9 @@
+<WCH v="2">
+  <item n="PORTB" r="1" s="False" e="False" i="267"/>
+  <item n="PORTA" r="0" s="False" e="False" i="266"/>
+  <item n="main_oldstateBT_L0" r="0" s="False" e="True" i="1669"/>
+  <item n="main_oldstateBT_L0" r="0" s="False" e="True" i="1669"/>
+  <item n="_itsArray" r="4" s="False" e="False" i="1653"/>
+  <item n="_txt" r="4" s="False" e="False" i="1644"/>
+  <item n="TRISC" r="1" s="False" e="False" i="277"/>
+</WCH>

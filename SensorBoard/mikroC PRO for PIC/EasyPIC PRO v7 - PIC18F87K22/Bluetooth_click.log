@@ -1,0 +1,20 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F87K22 -DL -O11111114 -fo64 -N"C:\Users\Darren\Desktop\samples\newMessageTypesFail\mikroC PRO for PIC\EasyPIC PRO v7 - PIC18F87K22\Bluetooth_click.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Darren\Desktop\samples\newMessageTypesFail\mikroC PRO for PIC\EasyPIC PRO v7 - PIC18F87K22\" -SP"C:\Users\Darren\Desktop\samples\unchanged\mikroC PRO for PIC\EasyPIC PRO v7 - PIC18F87K22\" "Bluetooth_click.c" "BT_Routines.c" "AccelClick.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_Button.mcl" "__Lib_I2C_c34d65_k22_k90.mcl" "__Lib_UART_c67g12.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 3841 [bytes], Available ROM: 131072 [bytes]	 
+diagnostics: 0	122	Compilation Started	bt_routines.h
+warning: 310	1509	Generated baud rate is 114286 bps (error = 0.79 percent)	Bluetooth_click.c
+diagnostics: 376	123	Compiled Successfully	Bluetooth_click.c
+diagnostics: 0	122	Compilation Started	BT_Routines.c
+diagnostics: 94	123	Compiled Successfully	BT_Routines.c
+diagnostics: 0	122	Compilation Started	AccelClick.c
+diagnostics: 237	123	Compiled Successfully	AccelClick.c
+hint: 78	1164	Variable 'id' has been eliminated by optimizer	AccelClick.c
+hint: 98	1164	Variable 'low_byte' has been eliminated by optimizer	AccelClick.c
+hint: 112	1164	Variable 'low_byte' has been eliminated by optimizer	AccelClick.c
+hint: 126	1164	Variable 'low_byte' has been eliminated by optimizer	AccelClick.c
+diagnostics: 0	127	All files Compiled in 203 ms	 
+hint: 0	1144	Used RAM (bytes): 530 (14%)  Free RAM (bytes): 3311 (86%)	Used RAM (bytes): 530 (14%)  Free RAM (bytes): 3311 (86%)
+hint: 0	1144	Used ROM (bytes): 3677 (3%)  Free ROM (bytes): 127395 (97%)	Used ROM (bytes): 3677 (3%)  Free ROM (bytes): 127395 (97%)
+diagnostics: 0	125	Project Linked Successfully	Bluetooth_click.mcppi
+diagnostics: 0	128	Linked in 62 ms	 
+diagnostics: 0	129	Project 'Bluetooth_click.mcppi' completed: 297 ms	 
+diagnostics: 0	103	Finished successfully: 12 May 2016, 20:21:18	Bluetooth_click.mcppi
